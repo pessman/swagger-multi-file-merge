@@ -1,0 +1,13 @@
+{
+  "name": "swagger-merge-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json-refs": "^3.0.15",
+    "write-yaml-file": "^4.2.0",
+    "yamljs": "^0.3.0"
+  }
+}
